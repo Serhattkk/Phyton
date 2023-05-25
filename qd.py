@@ -1,0 +1,3 @@
+a = ['denzili']
+
+a.capitalize()
